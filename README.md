@@ -17,5 +17,5 @@
 - ⚡ Fun fact: Big fan of MCU ⧗ ⎊ ⍟ 
 
 ## Github Stats
-![Amudhini's GitHub stats](https://github-readme-stats.vercel.app/api?username=jill-amudhini&theme=github_dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jill-amudhini&layout=compact&theme=github_dark&)](https://github.com/anuraghazra/github-readme-stats)
+![Amudhini's GitHub stats](https://github-readme-stats.vercel.app/api?username=jill-amudhini&theme=github_dark&show_icons=true&line_height=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jill-amudhini&layout=compact&card_width=296&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
